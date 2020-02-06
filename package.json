@@ -1,7 +1,7 @@
 {
-  "name": "react-flatpickr",
+  "name": "fork-react-flatpickr",
   "version": "3.9.1",
-  "description": "flatpickr for React",
+  "description": "fork of flatpickr for React",
   "main": "build/index.js",
   "scripts": {
     "example": "npm run build && webpack --config example/webpack.js",
@@ -25,12 +25,12 @@
   "author": "haoxin",
   "license": "MIT",
   "dependencies": {
-    "flatpickr": "^4.5.7",
+    "flatpickr": "^4.6.3",
     "prop-types": "^15.5.10"
   },
   "devDependencies": {
-    "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.0.0",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/plugin-proposal-decorators": "^7.0.0",
     "@babel/plugin-proposal-do-expressions": "^7.0.0",
